@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>galaxy_s4_weather_droidviews.jpg</file>
+        <file>machta.jpg</file>
+    </qresource>
+</RCC>
